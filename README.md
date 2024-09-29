@@ -8,6 +8,8 @@ You might be among the developers who are planning to advance your career as a D
 
 This repositories post presents more than tools of the most common DevOps interview questions, neatly broken out into themes, so you can ace your next interview and successfully get that dream job.
 
+# Init first for your learning path with Roadmaps are now interactive, you can click the nodes to read more about the topics (https://github.com/nholuongut/all-roadmaps)
+
 # Repository Index
 
 1. [Kafka](#Kafka)
@@ -1315,6 +1317,7 @@ This repositories post presents more than tools of the most common DevOps interv
 * [Linkedin](https://www.linkedin.com/in/nholuong/)
 * [Email Address](luongutnho@hotmail.com) 
 
+![](bitfield.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
