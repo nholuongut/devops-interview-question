@@ -9,7 +9,7 @@ You might be among the developers who are planning to advance your career as a D
 This repositories post presents more than tools of the most common DevOps interview questions, neatly broken out into themes, so you can ace your next interview and successfully get that dream job.
 
 # Init first for your learning path with Roadmaps are now interactive, you can click the nodes to read more about the topics.
-[All Roadmaps references here]([#Kafka](https://github.com/nholuongut/all-roadmaps))
+* [All Roadmaps references here](https://github.com/nholuongut/all-roadmaps) 
 
 # Repository Index
 
